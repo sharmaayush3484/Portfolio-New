@@ -22,7 +22,3 @@ This project showcases my work as a **Cloud Engineer**, combining modern web des
 - Databases & Backend: SQL, MongoDB, Firebase, REST APIs, DBMS 
 - Systems: Linux/Unix, Networking 
 - Machine Learning & Data: ML Basics, NumPy, Pandas, Matplot 
-
----
-
-
