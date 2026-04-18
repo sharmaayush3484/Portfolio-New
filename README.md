@@ -2,7 +2,7 @@
 # 🌐 Ayush Sharma - Portfolio
 
 Welcome to my personal portfolio repository!  
-This project showcases my work as a **Cloud Engineer & Full Stack Developer**, combining modern web design with robust backend architecture.
+This project showcases my work as a **Cloud Engineer**, combining modern web design with robust backend architecture.
 
 ---
 
@@ -16,10 +16,12 @@ This project showcases my work as a **Cloud Engineer & Full Stack Developer**, c
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express  
-- **Cloud & Deployment:** AWS, GitHub Pages  
-- **Other Tools:** REST APIs, SQL, Git
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, IAM), Cloud Architecture, Serverless 
+- DevOps & Automation: Docker, Git/GitHub, CI/CD, Shell Scripting, Infrastructure as Code 
+- Programming: Python, SQL 
+- Databases & Backend: SQL, MongoDB, Firebase, REST APIs, DBMS 
+- Systems: Linux/Unix, Networking 
+- Machine Learning & Data: ML Basics, NumPy, Pandas, Matplot 
 
 ---
 
